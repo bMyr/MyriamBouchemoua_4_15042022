@@ -90,10 +90,12 @@ a:hover {
     right: 0;
 }
 
+/*
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
+*/
 
 .b-parallax {
     background-attachment: fixed;
@@ -677,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -753,7 +755,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(65, 59, 43, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
