@@ -758,6 +758,9 @@ h4 {
     background-color: rgba(65, 59, 43, 0.7);
     padding: 40px 40px 40px 40px;
 }
+.black-background-2 {
+    background-color: rgba(65, 59, 43, 0.7);
+}
 
 .bold-link {
     font-weight: 900;
